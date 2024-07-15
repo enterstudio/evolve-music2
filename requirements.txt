@@ -6,3 +6,4 @@ scikit-learn
 pandas
 git+git://github.com/vishnubob/python-midi.git@HEAD#egg=midi
 scikits.audiolab
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
