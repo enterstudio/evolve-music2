@@ -6,3 +6,4 @@ scikit-learn
 pandas
 git+git://github.com/vishnubob/python-midi.git@HEAD#egg=midi
 scikits.audiolab
+twisted>=24.7.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
